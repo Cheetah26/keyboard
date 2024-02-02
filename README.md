@@ -8,6 +8,7 @@ My fully custom split keyboard
 - dual rp2040 microcontrollers
 - [kmk](http://kmkfw.io) firmware
 - stenography layer for [plover](http://www.openstenoproject.org/)
+- 3d printed base
 
 ## Background / design 
 After years of wanting an ergonomic split keyboard but never seeing one that perfectly matched what I imagined in my mind, I decided to design and build my own!
