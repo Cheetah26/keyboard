@@ -17,4 +17,4 @@ I started completely from scratch by putting my hand on a sheet of paper and jus
 
 ![paper printouts of my PCB design at various stages next to the final PCB](images/stages.jpg)
 
-I laid out the PCB according to this design, ordered all the parts, and anxiously waited to find out what I messed up. Since this was my first time designing a PCB, fist time programming a microcontroller, and first big soldering project, I 100% expected something to go wrong. To my surprise, everything went together perfectly and now I couldn't be happier with it.
+I laid out the PCB according to this design, ordered all the parts, and anxiously waited to find out what I messed up. Since this was my first time designing a PCB, fist time programming a microcontroller, and first big soldering project, I 100% expected something to go wrong. To my surprise, the only issue was that I forgot to account for the size of the jack connecting each half. After a little sanding, everything went together perfectly and now I couldn't be happier with it.
